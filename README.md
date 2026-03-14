@@ -72,8 +72,6 @@ Trading performance improves during Greed periods. Traders may benefit from incr
 
 1. Clone the repository
 2. Install required libraries
-
-```bash
 pip install pandas numpy matplotlib seaborn
 
 
