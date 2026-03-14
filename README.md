@@ -76,7 +76,8 @@ Trading performance improves during Greed periods. Traders may benefit from incr
 ```bash
 pip install pandas numpy matplotlib seaborn
 
-## Notebook Preview
 
+
+## Notebook Preview
 If GitHub fails to load the notebook preview, you can view it here:
 https://drive.google.com/file/d/1T_ubWuSP3ryaDGLo21bPs_tj6STUwsgd/view?usp=sharing
