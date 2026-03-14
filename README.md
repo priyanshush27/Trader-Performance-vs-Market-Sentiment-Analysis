@@ -14,6 +14,17 @@ The analysis uses two datasets:
 
 The analysis was performed using Python (Pandas, Matplotlib, Seaborn).
 
+## Dataset
+
+The historical trader dataset used in this analysis is larger than GitHub's 25MB upload limit and is therefore not included in this repository.
+Dataset links:
+1) Bitcoin Market Sentiment (Fear/Greed)
+Columns: Date, Classification (Fear / Greed)
+Link: https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing
+2) Historical Trader Data (Hyperliquid)
+Includes fields like: account, symbol, execution price, size, side, time, start position, event, closedPnL, leverage, etc.
+Link: https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing
+
 ### Data Preparation
 - Loaded and explored both datasets
 - Converted timestamps to daily dates
